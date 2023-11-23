@@ -1,4 +1,4 @@
-# Proxy variables of three subcultures for U.S. Gun Culture Research
+# Proxy variables for three subcultures for U.S. Gun Culture Research
 
 ## About
 This repository contains the component data derived from a Principal Component Analysis (PCA) on gun culture in the United States, spanning from 1998 to 2016, segmented by state and year. These components are proxies for different dimensions of gun culture and can be utilized in further statistical analyses. These variables are the outputs of the analysis detailed in the following paper: Boine, C., Siegel, M., Ross, C. et al. [What is gun culture? Cultural variations and trends across the United States](https://doi.org/10.1057/s41599-020-0520-6). Humanit Soc Sci Commun 7, 21 (2020). 
