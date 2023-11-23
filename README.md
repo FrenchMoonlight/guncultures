@@ -16,7 +16,7 @@ This data can be employed in exploring various facets of gun culture within stat
 
 ## How to Cite This Data
 Please cite this data as follows:
-Boine Claire. (2023). US gun culture proxy variables (1.0).
+Boine Claire. (2023). US gun culture proxy variables (1.0). https://zenodo.org/doi/10.5281/zenodo.10201904 
 
 ## License
 Licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). Appropriate credit, a link to the license, and indication of changes are required. See the `LICENSE` file for details.
